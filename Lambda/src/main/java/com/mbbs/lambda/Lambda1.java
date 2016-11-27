@@ -1,5 +1,4 @@
-package com.pan.java8.lambda;
-
+package com.mbbs.lambda;
 
 import java.util.Arrays;
 
