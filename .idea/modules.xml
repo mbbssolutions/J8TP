@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ParallelArrays/ParallelArrays.iml" filepath="$PROJECT_DIR$/ParallelArrays/ParallelArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concurrency/concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8.iml" filepath="$PROJECT_DIR$/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/lambda.iml" filepath="$PROJECT_DIR$/Lambda/lambda.iml" />
+    </modules>
+  </component>
+</project>
