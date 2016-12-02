@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/NashornEngine/NashornEngine.iml" filepath="$PROJECT_DIR$/NashornEngine/NashornEngine.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParallelArrays/ParallelArrays.iml" filepath="$PROJECT_DIR$/ParallelArrays/ParallelArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concurrency/concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8.iml" filepath="$PROJECT_DIR$/java8.iml" />

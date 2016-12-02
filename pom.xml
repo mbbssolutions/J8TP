@@ -12,6 +12,7 @@
         <module>Concurrency</module>
         <module>Lambda</module>
         <module>ParallelArrays</module>
+        <module>NashornEngine</module>
     </modules>
 
 
