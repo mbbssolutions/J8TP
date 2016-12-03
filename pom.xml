@@ -13,6 +13,17 @@
         <module>Lambda</module>
         <module>ParallelArrays</module>
         <module>NashornEngine</module>
+        <module>Jdeps</module>
+        <module>InterfaceDefaultsStaticMethods</module>
+        <module>MethodReferences</module>
+        <module>RepeatingAnnotations</module>
+        <module>TypeInterface</module>
+        <module>AnnotationsSupport</module>
+        <module>ParameterNames</module>
+        <module>Optional</module>
+        <module>Streams</module>
+        <module>DateTime</module>
+        <module>Base64</module>
     </modules>
     <build>
         <plugins>

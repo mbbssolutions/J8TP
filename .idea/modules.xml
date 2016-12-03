@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnotationsSupport/AnnotationsSupport.iml" filepath="$PROJECT_DIR$/AnnotationsSupport/AnnotationsSupport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Base64/Base64.iml" filepath="$PROJECT_DIR$/Base64/Base64.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateTime/DateTime.iml" filepath="$PROJECT_DIR$/DateTime/DateTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceDefaultsStaticMethods/InterfaceDefaultsStaticMethods.iml" filepath="$PROJECT_DIR$/InterfaceDefaultsStaticMethods/InterfaceDefaultsStaticMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jdeps/Jdeps.iml" filepath="$PROJECT_DIR$/Jdeps/Jdeps.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodReferences/MethodReferences.iml" filepath="$PROJECT_DIR$/MethodReferences/MethodReferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/NashornEngine/NashornEngine.iml" filepath="$PROJECT_DIR$/NashornEngine/NashornEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Optional/Optional.iml" filepath="$PROJECT_DIR$/Optional/Optional.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParallelArrays/ParallelArrays.iml" filepath="$PROJECT_DIR$/ParallelArrays/ParallelArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParameterNames/ParameterNames.iml" filepath="$PROJECT_DIR$/ParameterNames/ParameterNames.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RepeatingAnnotations/RepeatingAnnotations.iml" filepath="$PROJECT_DIR$/RepeatingAnnotations/RepeatingAnnotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeInterface/TypeInterface.iml" filepath="$PROJECT_DIR$/TypeInterface/TypeInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8.iml" filepath="$PROJECT_DIR$/java8.iml" />
     </modules>
   </component>
